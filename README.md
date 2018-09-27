@@ -1,1 +1,3 @@
 # dataMining
+
+For research purposes
